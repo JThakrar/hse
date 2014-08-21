@@ -1,0 +1,4 @@
+hse
+===
+
+HBase Shell Extensions
