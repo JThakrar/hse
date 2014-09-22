@@ -1,5 +1,5 @@
 include Java
-import org.apache.hadoop.hbase. HBaseConfiguration
+import org.apache.hadoop.hbase.HBaseConfiguration
 import org.apache.hadoop.hbase.client.HTable
 import org.apache.hadoop.hbase.client.Scan
 import org.apache.hadoop.hbase.client.Get
